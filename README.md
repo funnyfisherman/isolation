@@ -1,14 +1,6 @@
 # isolation
 isolation et performance 
-Mode : Execution
 
-C'est noté. On met l'accent sur les risques (Dependency Hell, Corruption système, Réversibilité) de façon factuelle et technique. Voici le fichier Markdown, prêt à être poussé sur GitHub.
-
-code
-Markdown
-download
-content_copy
-expand_less
 # 🛡️ DevOps 101: Pourquoi l'isolation est la clé de la performance (et de ta santé mentale)
 
 Tu t'apprêtes à déployer ton equalizer généré par IA directement sur ton Mac ("bare metal"). L'idée du projet est excellente, mais la stratégie de déploiement est à revoir.
